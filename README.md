@@ -133,17 +133,32 @@ A **mobile-friendly financial workspace for Malaysian microbusiness owners**, de
 </div>
 
 <details>
-<summary><strong>💡 A little more about how I work</strong></summary>
+<summary><strong>💡 A little more about how I work — click to expand</strong></summary>
+<br>
 
-```python
-class Developer:
-    name = "Shafiq Faizzuddin"
-    focus = ["Full-Stack Development", "Applied AI", "Computer Vision"]
-    current_projects = ["AI Waste Management System", "NiagaPilot"]
+<div align="center">
 
-    def approach(self):
-        return "Understand the problem. Build thoughtfully. Test. Improve."
-```
+**My development approach**
+
+![Discover](https://img.shields.io/badge/01-Understand_the_problem-2563EB?style=flat-square)
+![Build](https://img.shields.io/badge/02-Build_a_working_solution-0891B2?style=flat-square)
+![Test](https://img.shields.io/badge/03-Test_%26_refine-7C3AED?style=flat-square)
+![Improve](https://img.shields.io/badge/04-Iterate_with_feedback-16A34A?style=flat-square)
+
+</div>
+
+| What drives my work | How I approach it |
+| :-- | :-- |
+| 🎯 **Problem-first thinking** | Understand the users and their challenges before choosing technology. |
+| 🧩 **End-to-end development** | Connect interfaces, APIs, databases, and AI models into useful workflows. |
+| 🧪 **Continuous improvement** | Test assumptions, debug carefully, and refine based on feedback. |
+| 🤝 **Collaboration** | Document decisions, welcome code reviews, and keep learning. |
+
+<div align="center">
+
+*Understand → Build → Test → Improve* 🚀
+
+</div>
 
 </details>
 
